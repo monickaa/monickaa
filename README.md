@@ -1,16 +1,41 @@
-## Hi there 👋
+👋 Hi there, I'm Monicka A!
 
-<!--
-**monickaa/monickaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science and Engineering student.  
+💻 I am passionate about Front-End Development, Full Stack Web Development, and continuously learning new technologies to enhance my skills. 
+🌱 Currently learning: React, PL/SQL, Design Patterns, DSA
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🚀 Projects I'm Proud Of
+- 🔗 [LearnSmartAI](https://github.com/monickaa/LEARN-SMART-AI): AI-based personalized learning platform  
+- 🏥 [Online Medicine Marketplace](https://github.com/monickaa/A-trusted-online-marketplace-for-certified-medicines) – A secure platform for buying certified medicines from verified pharmacies with prescription checks and vendor authentication.
+
+
+
+---
+
+ 📊 GitHub Stats & Streak
+
+![Monicka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=monickaa&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monickaa&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=monickaa&theme=highcontrast)
+
+
+---
+
+ 📚 Certifications
+- Front-End Development Simulation – Forage
+- Cyber Security & IoT – NPTEL  
+- SEO & AWS S3 Basics – Coursera  
+- Algorithm Design – Udemy  
+- Data Science – Great Learning
+
+---
+
+ 📫 How to Reach Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/monicka11)
+- 📧 monimonicka41@gmail.com
+
+
