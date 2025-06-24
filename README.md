@@ -2,7 +2,7 @@
 
 🎓 I'm a Computer Science and Engineering student.  
 💻 I am passionate about Front-End Development, Full Stack Web Development, and continuously learning new technologies to enhance my skills. 
-🌱 Currently learning: React, PL/SQL, Design Patterns, DSA
+🌱 Currently learning: React, PL/SQL, Design Patterns, DSA.
 
 ---
 
@@ -22,6 +22,9 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=monickaa&theme=highcontrast)
 
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=monickaa&color=blue&style=flat)
 
 ---
 
