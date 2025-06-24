@@ -24,7 +24,7 @@
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=monickaa&color=blue&style=flat)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
